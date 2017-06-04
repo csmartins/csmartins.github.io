@@ -1,2 +1,5 @@
 [project]
 name = csmartins.github.io
+
+[servers.ghpages]
+target = ghpages://csmartins/csmartins.github.io
